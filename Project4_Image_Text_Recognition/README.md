@@ -1,4 +1,4 @@
-# 🔍 ImageTextOCR — Image & Text Recognition System
+# 🤖 ImageTextOCR — Image & Text Recognition System
 
 ### Project 4 | Decode Labs AI Internship | Batch 2026
 
